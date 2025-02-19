@@ -1,5 +1,5 @@
-# Projeto Clínica
-## Gerenciamento de consultas médicas
+# Desafio-aula2
+## Gerenciamento de numeros telefônicos
 
 ## Tecnologias
 - VsCode
@@ -10,7 +10,7 @@
 - CSS
 
 ## Funcionalidades
-- CRUD de consultas médicas
+- CRUD de telefones
 
 ## Como rodar o projeto para testes de ponta a ponta
 - 1 Clone o repositório
