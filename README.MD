@@ -28,6 +28,3 @@ npx nodemon
 
 ### Teste de integração back x banco com Insomnia
 - Caso precise testar somente o backend e banco de dados, importe o arquivo **./docs/Insomnia** no Insomnia
-
-### Wireframe
-![Wireframe](./docs/wireframe.png)
